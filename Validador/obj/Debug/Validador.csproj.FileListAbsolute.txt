@@ -1,0 +1,6 @@
+C:\Projetos\Validador\Validador\bin\Debug\Validador.exe.config
+C:\Projetos\Validador\Validador\bin\Debug\Validador.exe
+C:\Projetos\Validador\Validador\bin\Debug\Validador.pdb
+C:\Projetos\Validador\Validador\obj\Debug\Validador.csprojResolveAssemblyReference.cache
+C:\Projetos\Validador\Validador\obj\Debug\Validador.exe
+C:\Projetos\Validador\Validador\obj\Debug\Validador.pdb
